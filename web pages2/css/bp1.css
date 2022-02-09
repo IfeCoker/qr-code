@@ -1,0 +1,40 @@
+body{
+    background-color: #6699cc;
+  }
+  section{
+    border: solid 4px #ffffff;
+    border-radius: 15px;
+    margin:50%;
+    width: 250px;
+    height: 400px;
+    background-color: #ffffff;
+  }
+  .border-box {background-clip: border-box;}
+  header{
+    background-image: url("../images/image-qr-code.png");
+    background-color: #00008b;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 10px;
+    height: 200px;
+    padding: 15px;
+    margin: 10px;
+  }
+  p{
+    display: block;
+    font-size: 15px;
+    font-family: Arial, serif;
+    text-align: center;
+    padding: 5px;
+    margin: 15px;
+  }
+  .one{
+    font-weight: 700; 
+  }
+  .two{
+    font-weight: 400;
+    color: #d3d3d3; 
+  }
+  
+  
