@@ -15,7 +15,7 @@ This project is a design of a QR code. It's a first challenge of my learning of 
 ![](Screenshot 2022-02-08 at 23-05-34 QR Code.png)
 
 ### Links
-- Solution URL: (https://github.com/IfeCoker/qr-code/tree/main)
+- Solution URL: (https://github.com/IfeCoker/qr-code.git)
 - Live Site URL: (https://ifecoker.github.io/qr-code/)
 
 ### Built with
