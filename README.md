@@ -16,7 +16,7 @@ This project is a design of a QR code. It's a first challenge of my learning of 
 
 ### Links
 - Solution URL: (https://github.com/IfeCoker/qr-code/tree/main)
-- Live Site URL: 
+- Live Site URL: (https://ifecoker.github.io/qr-code/)
 
 ### Built with
 - Semantic HTML5 markup
